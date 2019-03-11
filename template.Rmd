@@ -16,5 +16,5 @@ letterhead: head.png
 signature: smallsignature.png
 ---
 
-J'ai le plaisir de vous informer par la présente que, conformément à la loi, à nos statuts et à l'accord de participation signé au sein de notre entreprise, le montant de participation que vous avez acquis au titre de l'exercice clos le 31 décembre 2017 s'élève à {montant} €, net de la CSG. 
+J'ai le plaisir de vous informer par la présente que, conformément à la loi, à nos statuts et à l'accord de participation signé au sein de notre entreprise, le montant de participation que vous avez acquis au titre de l'exercice clos le 31 décembre 2017 s'élève à {montant} €, net de la CSG et de la CRDS. 
 
